@@ -1,0 +1,6 @@
+{
+  "name": "Decentralized Voting System",
+  "description": "Smart contract powered decentralized voting application with MetaMask integration, JWT voter authentication, 5-second timed receipt session lock, and admin verification ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
